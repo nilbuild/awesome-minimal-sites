@@ -18,6 +18,7 @@ An opinionated collection of minimal but good looking websites.
 - [hearthands.tech](https://hearthands.tech)
 - [sheetmonkey.io](https://sheetmonkey.io)
 - [smmall.cloud](https://smmall.cloud)
+- [nostairsplease.com](https://nostairsplease.com)
 - [campsite.co](https://campsite.co)
 - [issuemailer.com](https://issuemailer.com)
 - [react-postgres-components.vercel.app](https://react-postgres-components.vercel.app/)
